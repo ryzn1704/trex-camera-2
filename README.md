@@ -1,1 +1,2 @@
-# trex-camera-2
+# PRO-C39: INFINITE RUNNER GAME-2
+https://github.com/Rohanpande07/PRO-C39-INFINITE-RUNNER-GAME-2.git
